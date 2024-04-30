@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: black;
+}
+
+.menu {
+    position: relative;
+    width: 260px; /*camb*/
+    height: 260px; /*camb*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
